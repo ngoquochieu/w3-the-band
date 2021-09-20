@@ -88,6 +88,7 @@ html {
 
 }
 #nav {
+    font-size: 0;
     display: inline-block;
     
 }
@@ -103,10 +104,12 @@ html {
     position: relative;
 }
 #nav >li >a {
+    font-size: 15px;
     text-transform: uppercase;
     color: #fff;
 }
 #nav li a {
+
     line-height: 46px;
     padding: 0 24px;
     text-decoration: none;
